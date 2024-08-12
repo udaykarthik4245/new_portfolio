@@ -18,7 +18,7 @@
 }
 
 body{
-    background: var(--bg-color);
+    background:rgba(208, 255, 19, 0.39) ;
     color: var(--text-color);
 }
 
